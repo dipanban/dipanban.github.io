@@ -1,0 +1,22 @@
+---
+title: "Hi, Nice to meet ya!"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+Hi, my name is Dipan Banik.
+
+I am a Data Scientist with 4 years of experience building and deploying end-to-end machine learning solutions across credit risk, financial services, healthcare/pharma, and industrial analytics. Experienced in developing credit risk models including XGBoost behavioral scorecards, Logistic Regression acquisition models, PD/LGD models, and CECL-compliant loss forecasting solutions. Strong expertise in feature engineering, WoE, model explainability, statistical modeling, and large-scale data analytics, with experience working across bureau, transactional, behavioral, and alternative data.
+
+Hands-on experience in Generative AI and production ML, including RAG, LLMs, Knowledge Graphs, FAISS-based retrieval, and PyTorch/PyTorch Geometric. Built and hosted an internal ML Model Hub using MLflow Tracking Server and custom logging utilities to strengthen model governance, experiment tracking, and versioning. Experienced with AWS, Docker, Kubernetes, PySpark, AWS Glue, Lambda, and CI/CD workflows, with a strong track record of taking ML solutions from research and prototyping through production deployment and monitoring.
+
+I would love to connect and grow together!! After all, this is why I started this blog in the first place. To share what I am learning, and to learn what people can share.

@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+execute:
+  freeze: auto
+
+website:
+  title: "Dipan Banik"
+  description: "Notes on data science, ML, and LLM engineering."
+  navbar:
+    right:
+      - text: "Blog"
+        href: index.qmd
+      - about.qmd
+      - icon: github
+        href: https://github.com/dipanban
+      - icon: linkedin
+        href: https://www.linkedin.com/in/dipan-banik/
+
+format:
+  html:
+    theme: cosmo # cosmo, flatly, litera, darkly, zephyr
+    css: styles.css
+    toc: true
