@@ -1,6 +1,8 @@
 [
   {
     "listing": "/index.html",
-    "items": []
+    "items": [
+      "/experiments/notebooks/func_approximation.html"
+    ]
   }
 ]
